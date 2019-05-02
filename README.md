@@ -1,2 +1,2 @@
 # NewIqra
-Aplikasi Polis Asuransi
+Aplikasi Polis Asuransi Berbasis Android
